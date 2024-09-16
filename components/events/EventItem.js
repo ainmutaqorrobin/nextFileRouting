@@ -1,6 +1,5 @@
-import Link from "next/link";
 import styles from "./EventItem.module.css";
-import Button from "../customUI/button";
+import Button from "../custom-UI/Button";
 import DateIcon from "../icons/date-icon";
 import AddressIcon from "../icons/address-icon";
 import ArrowRightIcon from "../icons/arrow-right-icon";
